@@ -2,5 +2,6 @@
     background-color: aquamarine;
 }
 #aboutus{
-    background-image: url(./background4.jpeg);
+    background-image: url(./background.jpeg);
+    background-size: cover;
 }
